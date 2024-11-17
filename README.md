@@ -1,8 +1,6 @@
-# MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
-
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
-
-[Video Tutorial on Youtube](https://youtu.be/4GUVz2psWUg)
+<div align="center">
+    <h1> DevCorner - A Social App for Developers </h1>
+</div>
 
 Some Features:
 
@@ -19,7 +17,6 @@ Some Features:
 -   🖼️ Edit Cover Image and Profile Image
 -   📷 Image Uploads using Cloudinary
 -   🔔 Send Notifications
--   🌐 Deployment
 -   ⏳ And much more!
 
 ### Setup .env file
